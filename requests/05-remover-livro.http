@@ -1,0 +1,2 @@
+### Remover livro
+DELETE {{baseUrl}}/livros/69f95df748c653bb8d92dd3c

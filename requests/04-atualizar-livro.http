@@ -1,0 +1,12 @@
+### Atualizar livro
+PUT {{baseUrl}}/livros/69f9629bf3b03eefe61c5ed1
+Content-Type: application/json
+
+{
+  "titulo": "Clean Architecture (2a edicaoa)",
+  "autor": "Robert C. Martin",
+  "isbn": "9780134494166",
+  "anoPublicacao": 2018,
+  "genero": "TECNOLOGIA",
+  "disponivel": false
+}

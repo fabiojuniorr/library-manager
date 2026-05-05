@@ -1,0 +1,12 @@
+### Criar livro
+POST {{baseUrl}}/livros
+Content-Type: application/json
+
+{
+  "titulo": "Clean Architecture",
+  "autor": "Robert C. Martin",
+  "isbn": "9780134494172",
+  "anoPublicacao": 2017,
+  "genero": "TECNOLOGIA",
+  "disponivel": true
+}

@@ -1,0 +1,2 @@
+### Buscar livro por ID
+GET {{baseUrl}}/livros/69f9629bf3b03eefe61c5ed1

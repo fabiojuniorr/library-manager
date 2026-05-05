@@ -1,0 +1,8 @@
+### Listar livros - paginacao padrao
+GET {{baseUrl}}/livros
+
+### Listar livros - paginado
+GET {{baseUrl}}/livros?pagina=0&tamanho=5
+
+### Listar livros - filtro por genero
+GET {{baseUrl}}/livros?pagina=0&tamanho=10&genero=TECNOLOGIA
